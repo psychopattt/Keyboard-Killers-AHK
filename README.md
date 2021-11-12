@@ -1,7 +1,7 @@
 # Keyboard-Killers-AHK
 AutoHotKey achievements scripts for Keyboard Killers
 
-# How to use :
+## How To Use:
 
 1. Install AutoHotKey: https://www.autohotkey.com/
 
@@ -16,7 +16,7 @@ AutoHotKey achievements scripts for Keyboard Killers
 6. IMPORTANT: To terminate the whole script, pres F1 MULTIPLE TIMES (about 5 or 10 to be sure). This will stop all keypresses and terminate the scripts. If you don't close all the scripts, they will continue to press keys while you are doing other things.
 
 
-# Notes
+## Notes
 
 1. If you have not started the main script fast enough, the level might fail. Simply terminate the script and redo steps 3-5.
 
