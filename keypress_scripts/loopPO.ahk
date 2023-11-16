@@ -1,14 +1,15 @@
+#Requires AutoHotkey v2.0
 #SingleInstance Force
 
-Loop, 70
+loop 70
 {
-	Send, {p down}
+	Send "{p down}"
 	Sleep 25
-	Send, {p up}
+	Send "{p up}"
 	Sleep 25
-	Send, {o down}
+	Send "{o down}"
 	Sleep 25
-	Send, {o up}
+	Send "{o up}"
 	Sleep 25
 }
 

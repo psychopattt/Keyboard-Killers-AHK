@@ -1,11 +1,12 @@
+#Requires AutoHotkey v2.0
 #SingleInstance Force
 
-Loop, 5
+loop 5
 {
-	Send, {c down}
-	Sleep, 25
-	Send, {c up}
-	Sleep, 500
+	Send "{c down}"
+	Sleep 25
+	Send "{c up}"
+	Sleep 500
 }
 
 ExitApp
