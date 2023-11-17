@@ -4,13 +4,13 @@
 loop 50
 {
 	Send "{k down}"
-	Sleep 25
+	Sleep 30
 	Send "{k up}"
-	Sleep 25
+	Sleep 30
 	Send "{l down}"
-	Sleep 25
+	Sleep 30
 	Send "{l up}"
-	Sleep 25
+	Sleep 30
 }
 
 ExitApp

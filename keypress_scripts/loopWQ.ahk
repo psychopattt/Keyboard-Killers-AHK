@@ -4,13 +4,13 @@
 loop 55
 {
 	Send "{w down}"
-	Sleep 25
+	Sleep 40
 	Send "{w up}"
-	Sleep 25
+	Sleep 40
 	Send "{q down}"
-	Sleep 30
+	Sleep 40
 	Send "{q up}"
-	Sleep 30
+	Sleep 40
 }
 
 ExitApp
